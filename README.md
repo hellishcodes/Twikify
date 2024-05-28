@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Twikify
+- 👋 Hi, I’m @hellish
 - 👀 I’m interested in coding,meeting new people and playing games.
 - 🌱 I’m currently learning on how to code in python.
-- 📫 How to reach me. if you want to conact me my discord username is Twikifyishere#9999. please note that i might change my username
+- 📫 How to reach me. if you want to conact me my discord username is hellishh. please note that i might change my username
 
 <!---
 Twikify/Twikify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
